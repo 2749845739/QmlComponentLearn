@@ -16,7 +16,6 @@ Dialog{
     closePolicy: Popup.NoAutoClose
     standardButtons: Dialog.Ok | Dialog.Cancel
 
-
     Column{
 //        LabelTextFieldR{
 //            id:title_order
@@ -38,21 +37,17 @@ Dialog{
             font.pixelSize:16
         }
 
-
         Label {
             text: qsTr("Content")
              color: "black"
             font.pixelSize:16
         }
 
-
         TextArea {
             font.pixelSize:16
             text: "gtrhtyjhty"
         }
-
     }
-
 
 //    onOpened: {
 //        initConfig()

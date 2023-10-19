@@ -13,14 +13,13 @@
         <file>resource/play_black.png</file>
         <file>resource/play_white.png</file>
         <file>resource/mute.png</file>
-        <file>test_basic.qml</file>
-        <file>cusCalendar.qml</file>
+        <file>TestBasic.qml</file>
         <file>resource/calendarnext.png</file>
         <file>CusShowRectangle.qml</file>
-        <file>text_variant.qml</file>
+        <file>TextVariant.qml</file>
         <file>CusCombobox.qml</file>
-        <file>test_tabbar.qml</file>
-        <file>test_dialog.qml</file>
+        <file>TestTabbar.qml</file>
+        <file>TestDialog.qml</file>
         <file>CusContentDlg.qml</file>
         <file>testCompress.qml</file>
         <file>TestEnum.qml</file>
@@ -31,7 +30,7 @@
         <file>TestImage.qml</file>
         <file>resource/ic_eshim_white.png</file>
         <file>resource/ic_gradient_white.png</file>
-        <file>TestGrid.qml</file>
+        <file>DiffGrid/TestGrid.qml</file>
         <file>TestFileDialog.qml</file>
         <file>TestWidth/BasicComponent.qml</file>
         <file>TestWidth/ShowAllWidth.qml</file>
@@ -44,5 +43,13 @@
         <file>DiffToolTip/ShowToolTip.qml</file>
         <file>resource/icons8-96.png</file>
         <file>TestWidth/LayoutCombination.qml</file>
+        <file>ModelDelegate/StepDelete.qml</file>
+        <file>ModelDelegate/CusTextField.qml</file>
+        <file>ModelDelegate/CusSpinBox.qml</file>
+        <file>DiffTabbar/SizeTabbar.qml</file>
+        <file>DiffTabbar/VerticalTabbar.qml</file>
+        <file>DiffGrid/GridLocation.qml</file>
+        <file>PropertyBetweenQml/SecondLayer.qml</file>
+        <file>CusCalendar.qml</file>
     </qresource>
 </RCC>

@@ -6,8 +6,8 @@ import QtQuick.Controls.Styles 1.4
 
 Calendar {
     id:calendar
-    implicitWidth: 340
-    implicitHeight: 350
+    implicitWidth: 300
+    implicitHeight: 300
     // eliminate white edges around
     frameVisible:false
     property color back_color:"#253252"

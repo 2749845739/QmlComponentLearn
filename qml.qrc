@@ -39,7 +39,6 @@
         <file>DiffText/ShowAllText.qml</file>
         <file>DiffButton/LabelWithRadioButton.qml</file>
         <file>DiffText/LabelTextFieldR.qml</file>
-        <file>DiffText/test_text.qml</file>
         <file>DiffToolTip/ShowToolTip.qml</file>
         <file>resource/icons8-96.png</file>
         <file>TestWidth/LayoutCombination.qml</file>
@@ -49,7 +48,6 @@
         <file>DiffTabbar/SizeTabbar.qml</file>
         <file>DiffTabbar/VerticalTabbar.qml</file>
         <file>DiffGrid/GridLocation.qml</file>
-        <file>PropertyBetweenQml/SecondLayer.qml</file>
         <file>CusCalendar.qml</file>
     </qresource>
 </RCC>
